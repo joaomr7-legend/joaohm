@@ -1,0 +1,11 @@
+{
+  "duration": 20,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "frames": 600,
+  "audio": false,
+  "codec": "H.264 Main",
+  "decode": "OK",
+  "sha256": "e08519b973af2f9010d814d22b08fa5f40e7ed2f538a249e36bba0342efb13dc"
+}

@@ -1,0 +1,3 @@
+# Expansão — registro vigente
+
+20 segundos confirmados pelo cliente. Somente vídeo final, sem áudio. 1920×1080, 30 fps. Estilo da versão anterior: editorial monocromático, off-white, grade, modelos metálicos e sombras suaves. Conteúdo principal no centro de aproximadamente 608×1080 para recorte vertical. Sequência casa, restaurantes, pousadas, clínicas médicas, condomínios residenciais. Rótulos em português, sem promessa comercial ou marca inventada. Geometria própria e render Three.js local; sem serviços pagos. Entrega MP4 H.264 por link GitHub já autorizado para as entregas do cliente. Preservar as versões anteriores.
