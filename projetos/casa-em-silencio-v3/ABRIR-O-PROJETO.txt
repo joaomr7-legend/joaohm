@@ -1,0 +1,14 @@
+Extraia todo o ZIP antes de abrir.
+
+TEXTOS E MONTAGEM: filme-3d-effectcraft.ecproj no EffectCraft.
+Instale antes a fonte Inter que está em assets/fonts.
+Os textos ficam em CORE_TEXTOS_EDITAVEIS_608x1080.
+Exporte MASTER_HORIZONTAL_1920x1080 ou VERTICAL_1080x1920.
+
+OBJETOS 3D E CÂMERA: src/cena-3d.blend no Blender 4.3+.
+A geometria não está dentro do EffectCraft: ele usa assets/cena-3d.mp4 como fundo.
+Para mudar objetos/câmera, edite no Blender e renderize novamente.
+Não mova o .ecproj separado de assets/.
+
+Leia README.md para reproduzir o pipeline gratuito.
+Os vídeos não têm som. A locução será adicionada depois.

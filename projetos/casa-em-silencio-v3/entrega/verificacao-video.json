@@ -1,0 +1,26 @@
+{
+  "horizontal": {
+    "width": 1920,
+    "height": 1080,
+    "fps": "30/1",
+    "frames": "1500",
+    "duration": "50.000000",
+    "codec": "h264",
+    "profile": "Main",
+    "pixel_format": "yuv420p",
+    "audio": false,
+    "decode": "OK"
+  },
+  "vertical": {
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "frames": "1500",
+    "duration": "50.000000",
+    "codec": "h264",
+    "profile": "Main",
+    "pixel_format": "yuv420p",
+    "audio": false,
+    "decode": "OK"
+  }
+}
